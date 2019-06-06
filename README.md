@@ -4,6 +4,8 @@ This is code example of Tumos project GameOfLife with server side programming.
 
 ## Start Project
 
+Open folder in VScode, then terminal by typing ctrl+`
+
 You can run server by typing.
 
 ```bash
