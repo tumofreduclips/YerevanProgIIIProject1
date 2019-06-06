@@ -2,15 +2,16 @@
 
 This is code example of Tumos project GameOfLife with server side programming.
 
+
 ## Installation
 
-Open terminal in your project directory, and use node package manager [npm](https://www.npmjs.com/) to install project modules.
+Open terminal in your project folder, and use node package manager [npm](https://www.npmjs.com/) to install project modules.
 
 ```bash
 npm install
 ```
 
-It will installs [express.js](https://expressjs.com/) and [socket.io](https://socket.io/)
+It will install [express.js](https://expressjs.com/) and [socket.io](https://socket.io/)
 
 
 ## Start Project
